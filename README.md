@@ -15,6 +15,7 @@ Tweets                                                    len(char)       RTs   
 4  Check out the Spanish language translation of ...        140  ...       23        -1
 5  Attention reporters: sign up to join a call wi...        140  ...       24         0
 
+--------------------------------------
 Summary:
 --------------------------------------
 Percentage of positive tweets: 46.00%
